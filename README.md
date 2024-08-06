@@ -3,7 +3,6 @@ To address these issues, we have developed a ** MobileNet-CBAM model**, which in
 Model explanations are provided using SHAP for better clinical understanding and trust.
 ![image](https://github.com/user-attachments/assets/de7a0043-732b-4fb4-80d0-bf211af8a77f)
 
-![image](https://github.com/user-attachments/assets/f1fd28af-7aa4-4458-85c6-1316964f437c)
 
 **Dataset**
 https://www.cancerimagingarchive.net/collection/cdd-cesm/
