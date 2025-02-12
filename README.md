@@ -42,4 +42,4 @@ isbn="978-3-031-77789-9"
 
 
 **Contact**
-Email: S00243011@atu.ie
+Email: oladosu.oladimeji@research.atu.ie
